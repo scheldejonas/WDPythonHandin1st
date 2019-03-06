@@ -41,6 +41,26 @@ pirates.push_pirate(
     gender = "He"
 )
 
+pirates.push_pirate(
+    name = "Kirsten",
+    gender = "She"
+)
+
+pirates.push_pirate(
+    name = "Maria",
+    gender = "She"
+)
+
+pirates.push_pirate(
+    name = "Lis",
+    gender = "She"
+)
+
+pirates.push_pirate(
+    name = "Taylor",
+    gender = "He"
+)
+
 # Start - the party
 pirates.start_the_game()
 
