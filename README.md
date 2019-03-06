@@ -1,7 +1,9 @@
 # WDPythonHandin1st
 
+This project started of from here: https://docs.google.com/document/d/1UrBDPjQf2aBPXQZONFcfBcyJquc2Mn3zz9P5VsKCWqU/edit?usp=sharing
+
 The game is runnig like this:
-***
+~~~
 ! Welcome to the party of who is the best pirate !
 
 11 pirates joined the party
@@ -317,4 +319,4 @@ congratulations !
 Lars you have won the ship.
 
 Now - Go rule the seas.
-***
+~~~
